@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luna</h1>
-<h3 align="center">A passionate Backend, DevOps and Android Developer from Brasil</h3>
+<h3 align="center">A passionate Backend, DevOps and Data Analist from Brasil</h3>
 
 - 🌱 I’m currently learning **Terraform and AWS for DevOps engineering**
 
